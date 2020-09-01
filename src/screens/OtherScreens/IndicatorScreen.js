@@ -8,7 +8,7 @@ const IndicatorScreen = () => (
     <Background>
         <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
             <ActivityIndicator size='large' animating={true} />
-            <Text style={{ marginTop: 30, color: 'white', fontSize: 30, fontWeight: 'bold' }}>Loading</Text>
+            <Text style={{ marginTop: 30, color: 'white', fontSize: 30, fontWeight: 'bold' }}>Hello</Text>
         </View>
     </Background>
 )
